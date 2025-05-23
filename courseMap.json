@@ -358,6 +358,8 @@
   },
   "MCO201c": {
     "status": "done",
-    "related": ["/communicate-with-impact"]
+    "related": [
+      "https://www.coursera.org/learn/communicate-with-impact/assignment-submission/O4sBE/week-1-quiz"
+    ]
   }
 }
