@@ -1,12 +1,44 @@
 {
   "quizSrc": [
     {
-      "term": "If a company has an IT investment prioritization process, the company is more likely to achieve IT - Business alignment?a. Trueb. False",
-      "definition": "a. True"
+      "term": "What characterises an audience that has been mentally persuaded by your message? Select all that apply.",
+      "definition": "They generate more positive thoughts than negative thoughts; They have accepted your argument"
     },
     {
-      "term": "What characterises an audience that has been mentally persuaded by your message? Select all that apply.",
-      "definition": "They generate more positive thoughts than negative thoughts"
+      "term": "What behavioural cues would signal that the audience has been persuaded by your message? Select all that apply.",
+      "definition": "They would display enthusiasm in their gestures and body language; They are likely to ask 'how' questions"
+    },
+    {
+      "term": "Why is Petty and Cacioppo's model of persuasion so influential? Select all that apply.",
+      "definition": "It specifies situations when an audience is likely to engage with the message; It argues that the audience is actively judging your presentation"
+    },
+    {
+      "term": "Why is persuasive communication challenging? Select only one response.",
+      "definition": "Because you have to understand the needs of the audience"
+    },
+    {
+      "term": "You have a difficult colleague who is attacking you and others in your meeting. Should you:",
+      "definition": "Reason with the person explaining that their behaviour is not helpful to getting the results you're after."
+    },
+    {
+      "term": "You lose a major client. When explaining what has happened to your leadership team you:",
+      "definition": "Determine whether they are a client you want to keep or not and seek out options to repair the relationship; Analyse what happened, take responsibility, seek more learning and refocus on who is your ideal client and how to get more of them."
+    },
+    {
+      "term": "In a meeting, your colleague has a different point of view to you. Do you:",
+      "definition": "Find out why the person believes what they do and negotiate a solution."
+    },
+    {
+      "term": "A colleague gets promoted over you and you don't think they should have been promoted. Every time something goes well, they claim responsibility. Do you:",
+      "definition": "Reflect on what it is the other person has that you want. Then communicate to your superiors what you want without shame, blame or attack; Let the boss know you want to be promoted. Then every time you succeed, let your boss informally know."
+    },
+    {
+      "term": "You are with a client and you find out what is important to them. Then you make them an offer based on what they've told you. They don't look convinced. Do you:",
+      "definition": "Assume you haven't found out clearly enough what they want and go back to questioning them; Realise they're not the ideal client for you and thank them for their time."
+    },
+    {
+      "term": "You are triggered in a meeting and start to feel frustrated. Do you:",
+      "definition": "Take time out and when you feel calm assess what happened and why, then have the conversations you need; Assess what you value, see which ones are flexible and whether your environment fits your values which are non-negotiable; Check in with yourself, see what's coming up and ask yourself what you need in that moment."
     }
   ]
 }
